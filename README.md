@@ -1,1 +1,1 @@
-# Week-2
+This Jupyter Notebook focuses on natural language processing (NLP) and machine learning, likely for text classification or sentiment analysis. It installs necessary libraries (nltk, scikit-learn, streamlit), imports modules for text processing (nltk), feature extraction (TfidfVectorizer), and classification (LogisticRegression). It also configures SSL settings, sets an NLTK data path, and downloads the 'punkt' tokenizer for text tokenization.
